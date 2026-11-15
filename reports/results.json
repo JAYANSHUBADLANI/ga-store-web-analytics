@@ -1,0 +1,225 @@
+{
+  "data": {
+    "raw_rows": 903653,
+    "raw_columns": 55,
+    "kept_columns": 21,
+    "unique_session_ids": 902755,
+    "duplicate_session_id_rows": 898,
+    "visitors": 714167,
+    "first_date": "2016-08-01",
+    "last_date": "2017-08-01",
+    "sessions_missing_pageviews": 100,
+    "months_in_trend": 12
+  },
+  "all_traffic": {
+    "sessions": 903653.0,
+    "visitors": 714167.0,
+    "conversions": 11515.0,
+    "conversion_rate": 0.0127427231470487,
+    "revenue": 1540071.2400000002,
+    "bounce_rate": 0.49867592980934056,
+    "pages_per_session": 3.8493381862285636,
+    "revenue_per_order": 133.7447885366913
+  },
+  "customers": {
+    "sessions": 836142.0,
+    "visitors": 681795.0,
+    "conversions": 6394.0,
+    "conversion_rate": 0.007647026462012433,
+    "revenue": 924927.6700000011,
+    "bounce_rate": 0.5271843777731534,
+    "pages_per_session": 3.472980665963437,
+    "revenue_per_session": 1.1061849183511905,
+    "revenue_per_order": 144.65556302783878
+  },
+  "internal": {
+    "sessions": 67511.0,
+    "conversion_rate": 0.07585430522433381,
+    "session_share": 0.07470898674601865,
+    "conversion_share": 0.4447242726877985,
+    "revenue_share": 0.3994253993081514,
+    "cr_multiple_vs_customers": 9.919451122753351
+  },
+  "channels": {
+    "Organic Search": {
+      "sessions": 381561.0,
+      "session_share": 0.4563351679499415,
+      "bounce_rate": 0.48319927875228336,
+      "pages_per_session": 4.112626814585348,
+      "conversion_rate": 0.009010354831861746,
+      "revenue_share": 0.3528713872296632,
+      "revenue_per_session": 0.8553822586689943
+    },
+    "Social": {
+      "sessions": 226117.0,
+      "session_share": 0.27042894627945974,
+      "bounce_rate": 0.6523569656416811,
+      "pages_per_session": 1.7632022360105608,
+      "conversion_rate": 0.0004599388811986715,
+      "revenue_share": 0.005315594029098513,
+      "revenue_per_session": 0.021743345259312655
+    },
+    "Direct": {
+      "sessions": 143026.0,
+      "session_share": 0.17105467731557558,
+      "bounce_rate": 0.49558821473018894,
+      "pages_per_session": 4.089046746745347,
+      "conversion_rate": 0.014277124438913205,
+      "revenue_share": 0.4701346538805568,
+      "revenue_per_session": 3.0402902269517416
+    },
+    "Referral": {
+      "sessions": 37327.0,
+      "session_share": 0.044641938809436676,
+      "bounce_rate": 0.46641841026602726,
+      "pages_per_session": 3.564068904546307,
+      "conversion_rate": 0.005090149221742974,
+      "revenue_share": 0.039231543370304836,
+      "revenue_per_session": 0.9721204490047418
+    },
+    "Paid Search": {
+      "sessions": 25326.0,
+      "session_share": 0.030289113571618217,
+      "bounce_rate": 0.38012319355602936,
+      "pages_per_session": 5.37234462607597,
+      "conversion_rate": 0.01847903340440654,
+      "revenue_share": 0.047094385229063354,
+      "revenue_per_session": 1.7199281370923154
+    },
+    "Affiliates": {
+      "sessions": 16403.0,
+      "session_share": 0.019617481241224578,
+      "bounce_rate": 0.5304517466317137,
+      "pages_per_session": 2.8907516917637017,
+      "conversion_rate": 0.0005486801194903372,
+      "revenue_share": 0.00064586671950251,
+      "revenue_per_session": 0.03641894775345974
+    },
+    "Display": {
+      "sessions": 6262.0,
+      "session_share": 0.007489158540056593,
+      "bounce_rate": 0.35867135100606834,
+      "pages_per_session": 5.461833280102204,
+      "conversion_rate": 0.022676461194506548,
+      "revenue_share": 0.0846957686972431,
+      "revenue_per_session": 12.509974449057808
+    },
+    "(Other)": {
+      "sessions": 120.0,
+      "session_share": 0.0001435162926871273,
+      "bounce_rate": 0.4666666666666667,
+      "pages_per_session": 3.683333333333333,
+      "conversion_rate": 0.008333333333333333,
+      "revenue_share": 1.0800844567662249e-05,
+      "revenue_per_session": 0.08325
+    }
+  },
+  "device": {
+    "desktop": {
+      "sessions": 597087.0,
+      "session_share": 0.7140976054306565,
+      "conversion_rate": 0.009010412217984983,
+      "revenue_share": 0.9363073439029023,
+      "bounce_rate": 0.5313999467414297,
+      "pages_per_session": 3.4645068474108465
+    },
+    "mobile": {
+      "sessions": 208622.0,
+      "session_share": 0.24950546677478228,
+      "conversion_rate": 0.0040647678576564315,
+      "revenue_share": 0.05354878181987991,
+      "bounce_rate": 0.5196288023314894,
+      "pages_per_session": 3.418445801497445
+    },
+    "tablet": {
+      "sessions": 30433.0,
+      "session_share": 0.03639692779456121,
+      "conversion_rate": 0.005454605198304472,
+      "revenue_share": 0.0101438742772178,
+      "bounce_rate": 0.49627049584332794,
+      "pages_per_session": 4.013077908848947
+    }
+  },
+  "device_test": {
+    "desktop_vs_mobile_cr_ratio": 2.2167101624297914,
+    "z": 22.204064245526613,
+    "p_value": 3.137592537541283e-109,
+    "within_channel_ratio_min": 2.6293107291030844,
+    "within_channel_ratio_max": 4.585078434655788,
+    "within_channel_channels": [
+      "Direct",
+      "Organic Search",
+      "Paid Search"
+    ]
+  },
+  "visitor_type": {
+    "New": {
+      "sessions": 673091.0,
+      "session_share": 0.80499604134226,
+      "conversion_rate": 0.004405050728653332,
+      "revenue_share": 0.2701667580125484
+    },
+    "Returning": {
+      "sessions": 163051.0,
+      "session_share": 0.19500395865773995,
+      "conversion_rate": 0.02103022980539831,
+      "revenue_share": 0.7298332419874516
+    }
+  },
+  "depth": {
+    "1 page": {
+      "session_share": 0.5293634334837862,
+      "conversion_rate": 0.0,
+      "conversion_share": 0.0
+    },
+    "2-3 pages": {
+      "session_share": 0.24030248450622024,
+      "conversion_rate": 2.4884659602741293e-05,
+      "conversion_share": 0.0007819831091648421
+    },
+    "4-9 pages": {
+      "session_share": 0.1528962783833368,
+      "conversion_rate": 0.0012437129917164023,
+      "conversion_share": 0.024867062871441976
+    },
+    "10-19 pages": {
+      "session_share": 0.05341915607636023,
+      "conversion_rate": 0.05203062732279586,
+      "conversion_share": 0.3634657491398186
+    },
+    "20+ pages": {
+      "session_share": 0.02401864755029648,
+      "conversion_rate": 0.19449285465318927,
+      "conversion_share": 0.6108852048795747
+    }
+  },
+  "funnel": {
+    "Sessions": 836142.0,
+    "Engaged (2+ pages, no bounce)": 393519.0,
+    "Browsed (5+ pages)": 153647.0,
+    "Deep (10+ pages)": 64749.0,
+    "Purchased": 6394.0
+  },
+  "social": {
+    "peak_month": "November 2016",
+    "peak_sessions": 57218.0,
+    "may_jul_2017_avg": 4763.0,
+    "youtube_share_of_social": 0.9402300578903842,
+    "youtube_conversions": 11.0,
+    "youtube_sessions": 212602.0
+  },
+  "top_country": {
+    "us_session_share": 0.3615259130626138,
+    "us_revenue_share": 0.9279581613122249
+  },
+  "orders": {
+    "median_order": 43.985,
+    "p90_order": 298.27,
+    "largest_order": 23129.5,
+    "orders": 6394,
+    "orders_with_10plus_pages_share": 0.9743509540193932,
+    "display_revenue": 78337.46,
+    "display_largest_order_share": 0.29525465849926713,
+    "display_dfa_share": 0.9820132028789289
+  }
+}
